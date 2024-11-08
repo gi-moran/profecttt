@@ -1,0 +1,14 @@
+body {
+    background-color: #FAFAD2;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.textparent {
+    text-align: center;
+    font-size: larger;
+    color: sienna;
+    border: 5px solid black;
+}
